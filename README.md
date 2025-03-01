@@ -6,5 +6,5 @@ Welcome to 'Groupe Taoui Développement' website 2018
 
 This is a static showcase version of a WordPress-powered real estate website. The original site was developed using WordPress but has been exported as static HTML for demonstration purposes.
 
-You can view the deployed site at: [https://your-username.github.io/taoui-imo-dev-static](https://your-username.github.io/taoui-imo-dev-static)
+You can view the deployed site at: [https://mohcinenazrhan.github.io/taoui-imo-dev-static](https://mohcinenazrhan.github.io/taoui-imo-dev-static/)
 
